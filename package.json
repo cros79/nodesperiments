@@ -1,0 +1,11 @@
+{
+  "name": "init-test",
+  "version": "0.0.0",
+  "description": "App to test making a init function on a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
